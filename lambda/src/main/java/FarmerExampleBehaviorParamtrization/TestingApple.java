@@ -22,6 +22,10 @@ public class TestingApple {
         System.out.println("==========================================");
         // Print out apples heavier than 200
         System.out.println(findApple(heavyApple200,inventoryOfApples));
+
+        // Interface interfaceObj =
+        //   sendRequest(interfaceObj)
+        // Post, Get, Delete
     }
 
 
